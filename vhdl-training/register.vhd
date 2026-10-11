@@ -12,7 +12,7 @@ entity register_32bit is
     data_out : out std_logic_vector(31 downto 0)
 
     );
-end entity register_32bit;--test für github
+end entity register_32bit;--...
 
 
 
