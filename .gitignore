@@ -1,0 +1,33 @@
+# Lokale Zugangsdaten
+.env
+.env.*
+!.env.example
+
+# Allgemeine Build-Ausgaben
+build/
+*.log
+*.tmp
+
+# Intel Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+
+# AMD Vivado
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.jou
+
+# Simulation
+work/
+work-obj*.cf
+*.wlf
+*.vcd
+*.fst
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
