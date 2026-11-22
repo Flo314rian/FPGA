@@ -1,0 +1,8 @@
+{
+    "[vhdl]": {
+        "editor.quickSuggestions": {
+            "other": "on"
+        },
+        "editor.wordBasedSuggestions": "currentDocument"
+    }
+}
